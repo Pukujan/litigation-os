@@ -80,3 +80,7 @@ Read [AI and retrieval](ai-and-retrieval.md) for APIs and [JusticeDAO sizes](jus
 - [LexGLUE](https://github.com/coastalcph/lex-glue): legal NLP benchmarks.
 
 These are not complete private law firm pleadings libraries and do not authorize republishing client documents.
+
+## Additional existing code discovered after the original 26-tool drafting comparison
+
+[JusticeDAO-LLC/complaint-generator](https://github.com/JusticeDAO-LLC/complaint-generator) is a public proof-of-concept that describes question-driven intake, evidence gathering, legal authority research, complaint generation and a multi-provider AI backend. It is **supplementary**, not one of the 18 commercial or 8 open/source-available drafting options counted above. Its root license was not found in the checked path; do not assume redistribution rights. See [JusticeDAO-related code](justicedao-related-code.md) for GitHub-reported repository sizes and limitations.
