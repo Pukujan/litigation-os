@@ -8,6 +8,7 @@
 
 | Document | Contents |
 |---|---|
+| [JusticeDAO-related existing code](research/justicedao-related-code.md) | JusticeDAO-LLC complaint generator and publisher-linked query tooling; separate from dataset sizes |
 | [JusticeDAO Hugging Face dataset inventory](research/justicedao-datasets.md) | Direct dataset URLs, sizes, coverage, license warnings, 100 GB calculations, as-is retrieval notes |
 | [Law firm operations and calendar / docketing / EBT](research/operations-and-workflows.md) | Clerk duties, workflow taxonomy, event-driven processes, controls |
 | [100 legal software and data systems](research/legal-software-100.md) | The 100-option market landscape: proprietary tools, open-source projects and datasets |
