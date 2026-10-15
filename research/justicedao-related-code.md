@@ -9,7 +9,7 @@
 - **Status claimed by its README:** proof-of-concept for legal complaints; research evidence and claim support, questionnaire-driven intake, legal authority gathering, complaint generation, an AI provider router and review dashboards.
 - **Backend examples named upstream:** OpenAI, OpenRouter, Gemini, Hugging Face local/inference, and Codex.
 - **Legal-source examples named upstream:** US Code, Federal Register, RECAP, Brave Search, Common Crawl.
-- **GitHub API repository `size` checked:** **16,438 KiB** (~16.1 MiB) as repository metadata. **Not** a measured local checkout, and excludes runtime/model/databases, submodule contents and downloaded datasets.
+- **GitHub API repository `size` checked:** **16,438** (GitHub's repository-size field, documented in KB; roughly 16 MB) as repository metadata. **Not** a measured local checkout, and excludes runtime/model/databases, submodule contents and downloaded datasets.
 - **License:** A root `LICENSE` file was **not found** by the direct checked path; do not assume it is openly licensed for redistribution/commercial incorporation just because code is public.
 - **Maintenance/production status:** README describes proof of concept and several incomplete tasks; claims and tests have not been independently reproduced.
 - **Identity caveat:** GitHub org `JusticeDAO-LLC` and HF account `justicedao` share branding and related tool references; **formal ownership/affiliation was not independently confirmed**.
@@ -18,7 +18,7 @@
 
 - **Repository:** https://github.com/endomorphosis/ipfs_datasets_py
 - **Relationship to data releases:** Dataset cards refer to upstream query clients and ingestion tooling from this project, and `complaint-generator` references an `ipfs_datasets_py` submodule.
-- **GitHub API `size`:** **3,642,545 KiB** (~3.47 GiB) as repository metadata. This is **not an actual local clone measurement**; repository history, LFS and submodules can alter space used.
+- **GitHub API `size`:** **3,642,545** (GitHub's repository-size field, documented in KB; roughly 3.6 GB) as repository metadata. This is **not an actual local clone measurement**; repository history, LFS and submodules can alter space used.
 - **License:** `LICENSE` in main branch is **GNU AGPL-3.0**, verified from file contents. Any commercial incorporation needs license review.
 - **Selected-data fit:** May contain the *publisher's existing read/query scripts*. Using the query client with JusticeDAO's **published** corpus/index artifacts is consistent with the owner's **as-is** direction; rebuilding scrapers/indexes is **not** required.
 
