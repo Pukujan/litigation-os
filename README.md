@@ -48,7 +48,7 @@ These notes summarize an exploratory technology scan. Product availability, comm
 
 ## Original research workbook
 
-An earlier 100-product comparison spreadsheet was prepared in the project conversation as `law_firm_automation_100_tools_research.xlsx`. This GitHub research is transcribed into searchable Markdown; the binary XLSX is **not yet committed** here.
+The original [100-product research workbook](research/law_firm_automation_100_tools_research.xlsx) is committed here in native `.xlsx` format (4 worksheets). Its contents are also summarized in searchable Markdown under [the 100-tool inventory](research/legal-software-100.md).
 
 ## Repository conventions
 
